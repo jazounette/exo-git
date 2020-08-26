@@ -1,2 +1,1 @@
 j'aime bien Git, mais comprendre les retours en arrière c'est pas facile facile.
-maintenant j'ajoute du texte dans toto pour voir les changements au niveau de GitHub.
